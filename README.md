@@ -1,4 +1,4 @@
-# Standards
+# Standards and Models
 
 ## Software engineering 
 
@@ -8,4 +8,4 @@
    It is meant for those who want to measure the productivity of the software process for creating code and documentation products." [https://segoldmine.ppi-int.com/node/45353]
 *  ISO/IEC 9126 standard [https://www.arisa.se/compendium/node6.html]  
    It describes a software quality model
-*  
+*  FURPS model [https://en.wikipedia.org/wiki/FURPS]
