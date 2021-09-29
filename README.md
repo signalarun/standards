@@ -14,4 +14,5 @@
 *  ISO 15939 - Software measurement process
 *  IEEE 830 - Recommended practice for software requirements specification
 *  IEEE 1016 - Standard for Information technology systems and software design description
-*  IEEE 1008 - Standar for unit testing
+*  IEEE 1008 - Standard for unit testing
+*  IEEE 1219 - Standar for software maintanence
