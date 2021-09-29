@@ -9,3 +9,4 @@
 *  ISO/IEC 9126 standard [https://www.arisa.se/compendium/node6.html]  
    It describes a software quality model
 *  FURPS model [https://en.wikipedia.org/wiki/FURPS]
+*  ISO 15026 software standard
