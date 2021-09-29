@@ -9,4 +9,8 @@
 *  ISO/IEC 9126 standard [https://www.arisa.se/compendium/node6.html]  
    It describes a software quality model
 *  FURPS model [https://en.wikipedia.org/wiki/FURPS]
-*  ISO 15026 software standard
+*  ISO 15026 - System and software integrity levels
+*  ISO 145898 - Software product evaluation
+*  ISO 15939 - Software measurement process
+*  IEEE 830 - Recommended practice for software requirements specification
+*  IEEE 1016 - Standard for Information technology systems and software design description
